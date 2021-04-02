@@ -206,7 +206,7 @@
   country-codes: [ru]
   file: RU_864_870_TTN.yml
 
-  id: IL_917
+- id: IL_917
   name: Israel 917 MHz
   description: Draft frequency plan for Israel
   base-frequency: 917
