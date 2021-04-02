@@ -116,3 +116,4 @@ downlink-channels:
   min-data-rate: 0
   max-data-rate: 5
   radio: 0
+clock-source: 0
