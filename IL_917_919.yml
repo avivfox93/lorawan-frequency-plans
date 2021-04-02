@@ -1,4 +1,7 @@
 band-id: IL_917_919
+sub-bands:
+- min-frequency: 917300000
+  max-frequency: 919900000
 uplink-channels:
 - frequency: 917300000
   min-data-rate: 0
