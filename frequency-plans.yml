@@ -210,7 +210,7 @@
   name: Israel 917 MHz *Draft*
   description: Draft frequency plan for Israel
   base-frequency: 917
-  country-codes: [il]
+  country-codes: []
   file: IL_917_919.yml
 
 - id: ISM_2400_3CH_DRAFT2
