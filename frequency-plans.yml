@@ -212,6 +212,13 @@
   base-frequency: 917
   country-codes: []
   file: IL_917_919.yml
+  
+- id: IL_917_919_V2
+  name: Israel 917 MHz V2 *Draft*
+  description: Draft frequency plan for Israel
+  base-frequency: 917
+  country-codes: []
+  file: IL_917_919_V2.yml
 
 - id: ISM_2400_3CH_DRAFT2
   name: LoRa 2.4 GHz with 3 channels draft 2
