@@ -1,4 +1,4 @@
-band-id: KR_920_923
+band-id: AU_915_928
 uplink-channels:
 - frequency: 917300000
   min-data-rate: 0
